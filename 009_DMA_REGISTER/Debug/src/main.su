@@ -1,0 +1,8 @@
+main.c:7:6:RCC_Config	4	static
+main.c:23:6:GPIO_Config	4	static
+main.c:31:6:ADC_Config	4	static
+main.c:52:6:DMA_Config	4	static
+main.c:75:9:Read_ADC	16	static
+main.c:88:5:main	16	static
+main.c:112:6:EVAL_AUDIO_TransferComplete_CallBack	16	static
+main.c:121:10:EVAL_AUDIO_GetSampleCallBack	4	static
