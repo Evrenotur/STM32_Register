@@ -1,0 +1,10 @@
+main.c:10:6:RCC_Config	4	static
+main.c:26:6:GPIO_Config	4	static
+main.c:34:6:Usart_Config	4	static
+main.c:53:6:NVIC_Config	4	static
+main.c:60:6:USART3_IRQHandler	16	static
+main.c:69:6:Send_Char	16	static
+main.c:78:6:Send_Message	16	static
+main.c:90:5:main	16	static
+main.c:112:6:EVAL_AUDIO_TransferComplete_CallBack	16	static
+main.c:121:10:EVAL_AUDIO_GetSampleCallBack	4	static
