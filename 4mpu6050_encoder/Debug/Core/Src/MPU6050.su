@@ -1,0 +1,10 @@
+../Core/Src/MPU6050.c:6:6:Init	32	static
+../Core/Src/MPU6050.c:59:6:Imu_Read	16	static
+../Core/Src/MPU6050.c:75:6:Imu_Calibration	72	static
+../Core/Src/MPU6050.c:93:6:Imu_Calibration2	72	static
+../Core/Src/MPU6050.c:112:6:Imu_Calibration3	72	static
+../Core/Src/MPU6050.c:131:6:Imu_Calibration4	72	static
+../Core/Src/MPU6050.c:150:6:Imu_Raw_Values	24	static
+../Core/Src/MPU6050.c:163:6:Imu_Raw_Values2	24	static
+../Core/Src/MPU6050.c:178:6:Imu_Raw_Values3	24	static
+../Core/Src/MPU6050.c:193:6:Imu_Raw_Values4	24	static
