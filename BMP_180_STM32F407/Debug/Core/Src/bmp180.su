@@ -1,0 +1,9 @@
+../Core/Src/bmp180.c:35:6:BMP180_Init	8	static
+../Core/Src/bmp180.c:45:6:BMP180_Get_Calibration_Value	48	static
+../Core/Src/bmp180.c:66:7:BMP180_Get_Temperature_Value	8	static
+../Core/Src/bmp180.c:71:7:BMP180_Get_Pressure_Value	8	static
+../Core/Src/bmp180.c:77:7:BMP180_Get_Altitude_Value	8	static
+../Core/Src/bmp180.c:81:6:BMP180_Calculate_Temperature_Value	16	static
+../Core/Src/bmp180.c:91:10:BMP180_Get_Uncompansated_Value	32	static
+../Core/Src/bmp180.c:103:6:BMP180_Calculate_Pressure_Value	16	static
+../Core/Src/bmp180.c:126:6:BMP180_Get_Uncompansated_Pressure_Value	32	static
