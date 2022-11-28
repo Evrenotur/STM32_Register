@@ -1,0 +1,8 @@
+../Core/Src/Neo6m.c:9:5:nmea0183_checksum	24	static
+../Core/Src/Neo6m.c:19:6:separationGPSData	32	static
+../Core/Src/Neo6m.c:54:6:sendLaLoUTC	16	static
+../Core/Src/Neo6m.c:79:6:gpsSeparationWELL	16	static
+../Core/Src/Neo6m.c:93:6:IntToChar	16	static
+../Core/Src/Neo6m.c:98:9:CharToInt	24	static
+../Core/Src/Neo6m.c:108:6:gpsSeparationRAW	16	static
+../Core/Src/Neo6m.c:131:6:initGPS	24	static
