@@ -7,6 +7,8 @@
 int sensorValue = 0;
 
 int sensorValue1 = 0;
+int x;
+int y=18;
 int i;
 int arc1;
 int sayac;
@@ -59,7 +61,7 @@ ISR (SPI_STC_vect)
 void Compute()
 {
  
-      a=map(arc2,0,360,0,1023);
+      a=map(30,0,360,0,1023);
   setpoint = (a/1.5) * 10;                      // set position
   input = encoderPos;                                 // data from encoder
   error = setpoint - input;
@@ -98,7 +100,7 @@ void loop(void)
 {
  //Serial.println(Slavereceived);
   arc1=Slavereceived;
-arc2=(atan(y/x))+(atan(5.1*sin(arc1)) / 13.75+(5.1*cos(arc1)))
+arc2=(atan(y/x))+(atan(5.1*sin(arc1)) / 13.75+(5.1*cos(arc1)));
 
 
   

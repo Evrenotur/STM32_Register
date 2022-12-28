@@ -7,7 +7,7 @@ void setup()
   pinMode (LED, OUTPUT);
   Wire.begin(9); 
   Wire.onReceive(receiveEvent);
-  Serial.begin(9600);
+  Serial.begin(115200);
 }
 
 void receiveEvent(int bytes) 
