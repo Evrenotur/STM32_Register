@@ -1,0 +1,2 @@
+../Core/Src/Eprom.c:11:10:Read_Flash	24	static
+../Core/Src/Eprom.c:19:6:Write_Flash	48	static
