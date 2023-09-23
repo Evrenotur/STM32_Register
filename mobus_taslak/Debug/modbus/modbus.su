@@ -1,0 +1,10 @@
+../modbus/modbus.c:30:6:wordToByte	24	static
+../modbus/modbus.c:37:10:byteToWord	16	static
+../modbus/modbus.c:42:10:calcCRC	32	static
+../modbus/modbus.c:63:10:exception	24	static
+../modbus/modbus.c:79:6:modbusAnalyser	32	static
+../modbus/modbus.c:343:9:readCoilFromBuffer	24	static
+../modbus/modbus.c:356:10:readRegisterFromBuffer	24	static
+../modbus/modbus.c:369:6:writeCoilToBuffer	24	static
+../modbus/modbus.c:380:6:writeRegisterToBuffer	24	static
+../modbus/modbus.c:387:9:writeStringToBuffer	32	static
