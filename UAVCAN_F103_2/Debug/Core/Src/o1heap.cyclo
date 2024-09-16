@@ -1,0 +1,12 @@
+../Core/Src/o1heap.c:149:29:log2Floor	1
+../Core/Src/o1heap.c:157:29:log2Ceil	2
+../Core/Src/o1heap.c:166:23:pow2	1
+../Core/Src/o1heap.c:172:23:roundUpToPowerOf2	1
+../Core/Src/o1heap.c:180:21:interlink	3
+../Core/Src/o1heap.c:193:21:rebin	2
+../Core/Src/o1heap.c:214:21:unbin	5
+../Core/Src/o1heap.c:245:17:o1heapInit	8
+../Core/Src/o1heap.c:297:7:o1heapAllocate	9
+../Core/Src/o1heap.c:384:6:o1heapFree	10
+../Core/Src/o1heap.c:452:6:o1heapDoInvariantsHold	25
+../Core/Src/o1heap.c:492:19:o1heapGetDiagnostics	1

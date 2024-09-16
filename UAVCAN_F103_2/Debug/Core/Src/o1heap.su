@@ -1,0 +1,12 @@
+../Core/Src/o1heap.c:149:29:log2Floor	16	static
+../Core/Src/o1heap.c:157:29:log2Ceil	16	static
+../Core/Src/o1heap.c:166:23:pow2	16	static
+../Core/Src/o1heap.c:172:23:roundUpToPowerOf2	16	static
+../Core/Src/o1heap.c:180:21:interlink	16	static
+../Core/Src/o1heap.c:193:21:rebin	24	static
+../Core/Src/o1heap.c:214:21:unbin	24	static
+../Core/Src/o1heap.c:245:17:o1heapInit	32	static
+../Core/Src/o1heap.c:297:7:o1heapAllocate	64	static
+../Core/Src/o1heap.c:384:6:o1heapFree	32	static
+../Core/Src/o1heap.c:452:6:o1heapDoInvariantsHold	64	static
+../Core/Src/o1heap.c:492:19:o1heapGetDiagnostics	48	static
